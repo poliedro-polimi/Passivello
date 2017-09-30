@@ -1,0 +1,426 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Passivello v0.1\n"
+"POT-Creation-Date: 2017-09-30 23:32+0200\n"
+"PO-Revision-Date: 2017-09-30 23:32+0200\n"
+"Last-Translator: \n"
+"Language-Team: PoliEdro <info@poliedro-polimi.it>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: common-footer.php\n"
+"X-Poedit-SearchPath-1: common-structdata.php\n"
+"X-Poedit-SearchPath-2: footer.php\n"
+"X-Poedit-SearchPath-3: front-page.php\n"
+"X-Poedit-SearchPath-4: functions.php\n"
+"X-Poedit-SearchPath-5: header.php\n"
+"X-Poedit-SearchPath-6: section-articoli.php\n"
+"X-Poedit-SearchPath-7: section-chisiamo.php\n"
+"X-Poedit-SearchPath-8: section-contatti.php\n"
+"X-Poedit-SearchPath-9: section-eventi.php\n"
+"X-Poedit-SearchPath-10: section-heading.php\n"
+"X-Poedit-SearchPath-11: section-navigation.php\n"
+"X-Poedit-SearchPath-12: section-partners.php\n"
+"X-Poedit-SearchPath-13: section-social.php\n"
+"X-Poedit-SearchPath-14: section-storia.php\n"
+
+#: common-footer.php:3
+msgid "Credits"
+msgstr "Crediti"
+
+#: common-footer.php:7
+msgid "Facebook Page"
+msgstr "Pagina Facebook"
+
+#: common-footer.php:9
+msgid "Telegram Channel"
+msgstr "Canale Telegram"
+
+#: common-footer.php:11
+msgid "Instagram Profile"
+msgstr "Profilo Instagram"
+
+#: common-footer.php:17
+msgid "Privacy and Cookies"
+msgstr "Privacy e Cookies"
+
+#: common-footer.php:25
+msgid "PoliEdro Association"
+msgstr "Associazione PoliEdro"
+
+#: common-footer.php:25 section-chisiamo.php:30
+msgid "Statute"
+msgstr "Statuto"
+
+#: common-footer.php:25 section-chisiamo.php:33
+msgid "Admission"
+msgstr "Ammissione"
+
+#: common-structdata.php:1
+msgid ""
+"lgbt, politecnico di milano, polimi, pride, gay, politecnico, milan, "
+"lesbians, homosexuality, transexuality, trans, association"
+msgstr ""
+"lgbt, politecnico di milano, polimi, pride, gay, politecnico, milano, "
+"lesbiche, omosessuali, transessuali, trans, associazione"
+
+#: common-structdata.php:20
+msgid ""
+"PoliEdro is the student group in Politecnico di Milano interested in LGBTI+ "
+"people rights and issues"
+msgstr ""
+"PoliEdro è l'associazione che si occupa dei diritti LGBTI+ al Politecnico di "
+"Milano"
+
+#: common-structdata.php:34
+msgid "PoliEdro - LGBTI+ Students of Politecnico di Milano"
+msgstr "PoliEdro - Studenti LGBTI+ del Politecnico di Milano"
+
+#: front-page.php:33
+msgid ""
+"PoliEdro is the student group in Politecnico di Milano interested in LGBTI+ "
+"people rights and issues. Visit our website to discover all our events!"
+msgstr ""
+"PoliEdro è l'associazione del Politecnico di Milano che si occupa delle "
+"tematiche LGBTI+. Visita il nostro sito per scoprire tutti i nostri eventi!"
+
+#: front-page.php:39
+msgid ""
+"The student group in Politecnico di Milano interested in LGBTI+ people "
+"rights and issues"
+msgstr ""
+"L'associazione che si occupa delle tematiche LGBTI+ al Politecnico di Milano"
+
+#: functions.php:72
+msgid "yesterday"
+msgstr "ieri"
+
+#: functions.php:77
+msgid "today"
+msgstr "oggi"
+
+#: functions.php:79
+msgid "tomorrow"
+msgstr "domani"
+
+#: functions.php:88
+msgid "at"
+msgstr "alle"
+
+#: header.php:43 section-navigation.php:6
+msgid "Toggle navigation"
+msgstr "Commuta navigazione"
+
+#: section-articoli.php:5
+msgid "Latest articles"
+msgstr "Ultimi articoli"
+
+#: section-articoli.php:54
+msgid "No article was found in this language."
+msgstr "Nessun articolo trovato in questa lingua."
+
+#: section-articoli.php:62
+msgid "View all articles"
+msgstr "Visualizza tutti gli articoli"
+
+#: section-chisiamo.php:5
+msgid "LGBTI+ Students of PoliMi"
+msgstr "Studenti LGBTI+ del PoliMi"
+
+#: section-contatti.php:6 section-navigation.php:52
+msgid "Contacts"
+msgstr "Contatti"
+
+#: section-contatti.php:7
+msgid "Send us an e-mail"
+msgstr "Inviaci una email"
+
+#: section-contatti.php:16
+msgid "Name"
+msgstr "Nome"
+
+#: section-contatti.php:16
+msgid "You didn't type your name."
+msgstr "Hai dimenticato il nome."
+
+#: section-contatti.php:20
+msgid "Email Address"
+msgstr "Indirizzo Email"
+
+#: section-contatti.php:20
+msgid "You didn't type your email address."
+msgstr "Hai dimenticato l'indirizzo email."
+
+#: section-contatti.php:24
+msgid "Phone Number"
+msgstr "Telefono"
+
+#: section-contatti.php:30
+msgid "Messagge (no HTML)"
+msgstr "Messaggio (no HTML)"
+
+#: section-contatti.php:30
+msgid "You didn't write a message."
+msgstr "Non hai scritto il messaggio."
+
+#: section-contatti.php:42
+msgid "Send to Welcoming Mailbox"
+msgstr "Invia allo Sportello Accoglienza"
+
+#: section-contatti.php:43
+msgid "Welcoming Mailbox"
+msgstr "Sportello Accoglienza"
+
+#: section-contatti.php:54
+msgid "Protected by reCaptcha"
+msgstr "Protetto con reCaptcha"
+
+#: section-contatti.php:54
+msgid "Send message"
+msgstr "Invia messaggio"
+
+#: section-contatti.php:56
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+#: section-eventi.php:13
+msgid "Eventi"
+msgstr "Eventi"
+
+#: section-eventi.php:31
+msgid "New"
+msgstr "Nuovo"
+
+#: section-eventi.php:33
+msgid "Past"
+msgstr "Passato"
+
+#: section-eventi.php:66
+msgid "Find all of our events on Facebook"
+msgstr "Scopri tutti i gli eventi su Facebook"
+
+#: section-eventi.php:66
+msgid "Add to Calendar"
+msgstr "Aggiungi al calendario"
+
+#: section-heading.php:7
+msgid "Find out more"
+msgstr "Scopri di pi&ugrave;"
+
+#: section-navigation.php:6
+msgid "Menu"
+msgstr "Menu"
+
+#: section-navigation.php:37
+msgid "Who are we"
+msgstr "Chi siamo"
+
+#: section-navigation.php:40 section-social.php:6
+msgid "Where to find us"
+msgstr "Come trovarci"
+
+#: section-navigation.php:43
+msgid "Events"
+msgstr "Eventi"
+
+#: section-navigation.php:46
+msgid "Articles"
+msgstr "Articoli"
+
+#: section-navigation.php:49
+msgid "Story"
+msgstr "Storia"
+
+#: section-partners.php:7
+msgid "Student Association of Politecnico di Milano"
+msgstr "Associazione del Politecnico di Milano"
+
+#: section-partners.php:17
+msgid "Participate to Milano Pride"
+msgstr "Partecipa al Milano Pride"
+
+#: section-partners.php:22
+msgid "Partner of \"Coordinamento Arcobaleno\" of Milan"
+msgstr "Socio del Coordinamento Arcobaleno di Milano"
+
+#: section-social.php:7
+msgid "Find out how to stay updated with our events."
+msgstr "Scopri come rimanere aggiornato sui nostri eventi."
+
+#: section-social.php:19
+msgid "Like our Facebook page to know everything about us."
+msgstr ""
+"Metti \"Mi piace\" alla nostra pagina Facebook per conoscere tutto su di noi."
+
+#: section-social.php:32
+msgid ""
+"Add yourself to our group and chat with us, or subscribe to our channel <i "
+"class=\"fa fa-telegram\"></i> PoliEdroLive to receive our news in real time."
+msgstr ""
+"Aggiungiti al nostro gruppo e fatti una chiacchierata con noi, o iscriviti "
+"al nostro canale <i class=\"fa fa-telegram\"></i> PoliEdroLive per avere le "
+"nostre news in tempo reale."
+
+#: section-social.php:34
+msgid "Channel"
+msgstr "Canale"
+
+#: section-social.php:35
+msgid "Group"
+msgstr "Gruppo"
+
+#: section-social.php:46
+msgid ""
+"Follow us on Instagram to see all our lives and the pictures of our events."
+msgstr ""
+"Seguici su Instagram per non perdere le foto dei nostri eventi e le live."
+
+#: section-storia.php:6
+msgid "Our story"
+msgstr "La nostra storia"
+
+#: section-storia.php:7
+msgid "This is how, from many faces, a big \"PoliEdro\" was born"
+msgstr "Ecco come da tante facce  nato un grande PoliEdro"
+
+#: section-storia.php:20
+msgid "The beginnings"
+msgstr "Gli inizi"
+
+#: section-storia.php:23
+msgid ""
+"PoliEdro was born to fight every kind of discrimination: gender, sexuality, "
+"ethnicity, religion, etc. In 2013 we participated for the first time to "
+"Milano Pride and organized our first big event: \"La condizione della donna"
+"\" (The condition of women). The follow presidents follow each other: "
+"Eugenio Semeraro, Stefano Grandis and Sebastiano Musumeci."
+msgstr ""
+"PoliEdro nasce per occuparsi di ogni tipo di discriminazione: di genere, di "
+"sessualit&agrave;, di etnia, di religione ecc. Nel 2013 partecipa per la "
+"prima volta al Milano Pride, e organizza il primo grande evento, \"La "
+"condizione della donna\". Come presidenti si susseguono Eugenio Semeraro, "
+"Stefano Grandis e Sebastiano Musumeci."
+
+#: section-storia.php:34
+msgid "People get to know PoliEdro"
+msgstr "PoliEdro si fa conoscere"
+
+#: section-storia.php:37
+msgid ""
+"In 2014 we became a partner of Coordinamento Arcobaleno (Rainbow "
+"Coordination), a union of association which, among other things, helps "
+"Arcigay with Milano Pride organization. With the Coordinamento we join "
+"Milano Pride with a decorated \"car2go\" car at the beginning of the parade."
+msgstr ""
+"Nel 2014 PoliEdro entra a far parte del Coordinamento Arcobaleno, un'unione "
+"di associazioni che, tra le altre cose, si occupa di organizzare insieme ad "
+"Arcigay il Pride. Contribuisce cos&igrave; alla realizzazione del Milano "
+"Pride, decorando una delle car2go che aprivano la parata."
+
+#: section-storia.php:48
+msgid "A golden year"
+msgstr "Un anno d'oro"
+
+#: section-storia.php:51
+msgid ""
+"In collaboration with the Municipality of Milan and Agedo, PoliEdro "
+"presented for the first time in Italy the documentary \"Invano mi odiano: "
+"racconto sui cristiani LGBT in Russia\" (They Hate Me In Vain - LGBT "
+"Christians In Today's Russia) by Yulia Matsiy. We also participated to EXPO "
+"2015 with our exhibition \"Parole Prigioniere\" (Imprisoned Words).\n"
+"We collaborated with the USA Pavillion for the events in favour of the LGBT "
+"community. We started, together with other associations, the campaign "
+"#Hungry4HumanRights: our president Sebastiano Musumeci made a bunch of "
+"special dishes for it, which were offered to famous people who support it, "
+"like Monica Cirinn and Conchita Wurst.\n"
+"In October, Sebastiano resigned from his charge and Ruggero Limberti became "
+"the new president."
+msgstr ""
+"In collaborazione con il Comune di Milano e Agedo, PoliEdro presenta per la "
+"prima volta in Italia il documentario \"Invano mi odiano: racconto sui "
+"cristiani LGBT in Russia\" di Yulia Matsiy. Partecipa anche ad EXPO con la "
+"mostra \"Parole Prigioniere\" in Cascina Triulza.\n"
+"Collaboriamo anche con il Padiglione USA per gli eventi organizzati a favore "
+"della comunit&agrave; LGBT, lanciando assieme alle altre associazioni la "
+"campagna #Hungry4HumanRights: il nostro presidente Sebastiano Musumeci si "
+"occupa della realizzazione dei piatti simbolo della campagna che vengono "
+"offerti alle personaggi che la sostengono: incontriamo cos Monica "
+"Cirinn&agrave; e Conchita Wurst.\n"
+"Al Pride non si pu mancare: oltre a quello di Milano, PoliEdro supporta il "
+"primo Pride di Pavia.\n"
+"Ad ottobre, Sebastiano si dimette e Ruggero Limberti viene eletto presidente."
+
+#: section-storia.php:64
+msgid "The \"tour\" in Italy"
+msgstr "Il \"tour\" per l'Italia"
+
+#: section-storia.php:67
+msgid ""
+"It was the year of Civil Unions in Italy. PoliEdro took part to all events "
+"in favour, like #SvegliatiItalia (Wake Up, Italy!) on January 23rd in Piazza "
+"della Scala, Milan, and #OraDirittiAllaMeta (Now Right to the End) on March "
+"5th in Rome. Civil Unions were approved, and we celebrated them by going to "
+"four Pride Parades: Pavia, Varese, Turin and of course Milan.\n"
+"Finally, we got in touch with other Italian LGBT student groups and took "
+"part to a great meeting in Bologna."
+msgstr ""
+"&Egrave; l'anno delle Unioni Civili. PoliEdro prende parte a tutti eventi a "
+"favore di esse, come #SvegliatiItalia del 23 Gennaio in Piazza della Scala a "
+"Milano e #OraDirittiAllaMeta del 5 Marzo a Roma. Le Unioni Civili arrivano, "
+"e si festeggia partecipando a ben quattro Pride: nuovamente a Pavia, al "
+"primo Varese Pride, naturalmente a Milano e a Torino.\n"
+"                                    Ci mettiamo anche in contatto con le "
+"altre associazioni LGBT italiane di universitari, prendendo parte a un primo "
+"grande incontro a Bologna."
+
+#: section-storia.php:79
+msgid "Back to PoliMi"
+msgstr "Si torna al PoliMi"
+
+#: section-storia.php:82
+msgid ""
+"After many collaborations, which helped us know other realities and made our "
+"association grow, we took back our focus to our University.\n"
+"We helped for a new online course on Diversity for Polimi Open Knoweledge.\n"
+"We met Momusso, a young artist, and had an exhibition with her: <a href=\"/"
+"articoli/2017/04/poliedro-momusso-liberamarsi/\" target=\"_blank"
+"\">Liberamarsi #vocabolariosentimentale</a>\n"
+"For the first time in its history, Politecnico sponsored Milano Pride after "
+"our request. The university staff joined us in the Parade making <a href=\"/"
+"articoli/2017/06/polimi-pride-2017/\" target=\"_blank\">PoliMi Pride</a> a "
+"reality."
+msgstr ""
+"Dopo tante collaborazioni che ci hanno portato a conoscere altre realt e "
+"ingrandire la nostra associazione, riportiamo il focus al Politecnico, dove "
+"da sempre si svolgono le nostre attivit&agrave;.\n"
+"Collaboriamo all'introduzione di un corso online (Polimi Open Knoweledge) "
+"sulla diversity.\n"
+"Conosciamo Momusso e prepariamo assieme la mostra <a href=\"/"
+"articoli/2017/04/poliedro-momusso-liberamarsi/\" target=\"_blank"
+"\">Liberamarsi #vocabolariosentimentale</a>.\n"
+"Per la prima volta nella storia, il Politecnico patrocina il Milano Pride su "
+"richiesta di PoliEdro, e abbiamo sfilato con <a href=\"/articoli/2017/06/"
+"polimi-pride-2017/\" target=\"_blank\">PoliMi Pride</a> per i nostri diritti "
+"insieme allo staff universitario."
+
+#~ msgid "alle"
+#~ msgstr "at"
+
+#~ msgid ""
+#~ "PoliEdro provides a \"welcoming\" mailbox for anybody who needs to talk "
+#~ "privately about their sexuality and their gender identity. You can stay "
+#~ "in touch with us via e-mail or ask for a personal meeting. Your privacy "
+#~ "always comes first: we've all been there and we know how these topics can "
+#~ "easily hurt our feelings."
+#~ msgstr ""
+#~ "PoliEdro fornisce uno sportello di supporto e ascolto per chiunque possa "
+#~ "avere bisogno di confronto riguardo la sfera della sessualit e l'identit "
+#~ "di genere. Puoi scriverci per parlare direttamente via email o se vuoi "
+#~ "incontrarci dal vivo. La tua privacy sar comunque sempre rispettata, dato "
+#~ "che tutti noi sappiamo (spesso essendoci passati noi stessi) quando "
+#~ "questi argomenti possano toccare profondamente una persona."

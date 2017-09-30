@@ -216,7 +216,7 @@ fieldset[disabled] .btn-xl.active {
   fill: #E91E63;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 993px) {
   .navbar-custom {
     /*background-color: rgba(0, 0, 0, .5);*/
         /*background-color: transparent;*/
@@ -244,20 +244,29 @@ fieldset[disabled] .btn-xl.active {
   .navbar-custom svg {
     height: 0.8em;
   }
-}
 
+  .navbar-custom.affix-top {
+    background-color: rgba(34, 34, 34, 0);
+    -webkit-transition: all .3s ease-out;
+    -moz-transition: all .3s ease-out;
+    -o-transition: all .3s ease-out;
+    transition: all .3s ease-out;
+  }
 
-@media (min-width: 768px) {
   .navbar-custom.affix {
-    background-color: #222222;
+    background-color: rgba(34, 34, 34, 1);
     padding: 10px 0;
+      -webkit-transition: all .3s ease-out;
+      -moz-transition: all .3s ease-out;
+      -o-transition: all .3s ease-out;
+      transition: all .3s ease-out;
   }
   .navbar-custom.affix .navbar-brand {
     font-size: 1.5em;
   }
 }
 header {
-  background-image: url('../img/header-bg.jpg');
+  background-image: url('../img/polimipride-2017-bg1.jpg');
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -270,7 +279,7 @@ header {
 }
 header .intro-text {
   padding-top: 70px;
-  padding-bottom: 50px;
+  padding-bottom: 30px;
 }
 header .intro-text .intro-lead-in {
   font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -287,7 +296,10 @@ header .intro-text .intro-heading {
   line-height: 50px;
   margin-bottom: 25px;
 }
-@media (min-width: 768px) {
+@media (min-width: 768px) and (orientation: landscape) {
+  header {
+    height: 100vmin;
+  }
   header .intro-text {
     padding-top: 70px;
     padding-bottom: 100px;
@@ -918,7 +930,7 @@ header .container .intro-text .intro-heading {
 }
 
 .color-instagram {
-    background-image: 
+    background-image:
         /* left bottom */
         radial-gradient(circle farthest-corner at 35% 90%, #fec564, transparent 50%),
         radial-gradient(circle farthest-corner at 0 140%, #fec564, transparent 50%),
@@ -939,9 +951,50 @@ header .container .intro-text .intro-heading {
     background-clip: text;
 }
 
+.scrolldown-text {
+  position: inherit;
+  padding-bottom: 5px;
+  color: white;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-weight: 700;
+  line-height: 10px;
+}
+
+.scrolldown-text a,
+.scrolldown-text a:active,
+.scrolldown-text a:focus,
+.scrolldown-text a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+.scrolldown-text a:hover {
+  color: white;
+  text-decoration: underline;
+  /*text-decoration: dotted;*/
+}
+
+@media (min-width: 768px) {
+  .scrolldown-text {
+    position: absolute;
+    bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    padding-bottom: 0;
+  }
+}
+
 #scopridipiubtn {
   background-color: rgba(255,255,255,0.2);
   border-color: white;
+  box-shadow: 0px 0px 20px 12px rgba(0, 0, 0, 0.2);
+  line-height: 10px;
+  line-height: 15px;
+  padding-top: 20px;
+  padding-bottom: 13px;
 }
 
 #scopridipiubtn:hover,
@@ -958,6 +1011,7 @@ header .container .intro-text .intro-heading {
     background-color: rgba(0, 0, 0, 0.4);
     border-color: #ffffff;
 }
+
 
 .fbpagelink {
     text-align: center;
@@ -1042,7 +1096,7 @@ header .container .intro-text .intro-heading {
     max-width: 768px;
 }
 
-@media (min-width: 768) {
+@media (min-width: 768px) {
     .event-title {
         white-space: nowrap;
     }
@@ -1086,6 +1140,16 @@ header .container .intro-text .intro-heading {
 .biglogo {
   max-height: 300px;
   max-height: 75vmin;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+@media (min-width: 768px) {
+    .biglogo {
+        max-height: 45vmin;
+        margin-bottom: 40px;
+        margin-top: 40px;
+    }
 }
 
 .timeline-image h4 a,
@@ -1093,4 +1157,74 @@ header .container .intro-text .intro-heading {
 .timeline-image h4 a:focus,
 .timeline-image h4 a:active {
   color: white;
+}
+
+.email-privacy,
+.email-privacy:visited {
+  color: #777777;
+  font-size: 10px;
+  padding-top: 10px;
+  display: block;
+}
+
+.email-privacy:hover,
+.email-privacy:active,
+.email-privacy:focus {
+  color: #999999;
+}
+
+a.partofourstory {
+  font-size: 10px;
+  -webkit-transition: all .3s ease-out;
+  -moz-transition: all .3s ease-out;
+  -o-transition: all .3s ease-out;
+  transition: all .3s ease-out;
+}
+
+a.partofourstory,
+a.partofourstory:hover,
+a.partofourstory:focus,
+a.partofourstory:active,
+a.partofourstory:visited {
+  text-decoration: none;
+}
+
+a.partofourstory:hover,
+a.partofourstory:active {
+  font-size: 12px;
+}
+
+@media (min-width: 768px) {
+  a.partofourstory {
+    font-size: 18px;
+  }
+  a.partofourstory:hover,
+  a.partofourstory:active {
+    font-size: 20px;
+  }
+}
+
+div.navbar-lang {
+  display: inline-block;
+  padding-top: 13px;
+  color: white;
+}
+
+div.navbar-lang p {
+  font-family: "Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 13px;
+  line-height: 1.0;
+  padding-top: 0;
+  margin: 0;
+  text-align: center;
+}
+
+div.navbar-lang p a {
+  color: white;
+}
+
+div.navbar-lang p a:hover {
+  color: #E91E63;
+  transition: all;
+  transition-duration: 0.3;
 }

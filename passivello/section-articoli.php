@@ -51,7 +51,7 @@
         <?php
         if (count($latest_posts) == 0) {
             echo "<div style='text-align: center'>";
-            _e("No article was found in this language.", "passivello");
+            _e("No article was found in this language. Check the <a href='/it/#articoli'>Italian version</a>.", "passivello");
             echo "</div>";
         }
         ?>

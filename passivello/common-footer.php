@@ -22,6 +22,6 @@
             <div class="row">
                 <div class="col-md-12" style="text-align: center;">
                     <br>
-                    <?php _e("PoliEdro Association", "passivello");?> &bullet; <a href="<?php _link("statuto"); ?>"><?php _e("Statute", "passivello");?></a> &bullet; <a href="<?php _link("ammissione"); ?>"><?php _e("Admission", "passivello");?></a> &bullet; C.F.: 97624250151
+                    <?php _e("\"PoliEdro\" Association", "passivello");?> &bullet; <a href="<?php _link("statuto"); ?>"><?php _e("Statute", "passivello");?></a> &bullet; <a href="<?php _link("ammissione"); ?>"><?php _e("Admission", "passivello");?></a> &bullet; C.F.: 97624250151
                 </div>
             </div>

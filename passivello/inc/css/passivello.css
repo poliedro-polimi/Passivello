@@ -209,6 +209,8 @@ fieldset[disabled] .btn-xl.active {
   height: 1em;
   fill: white;
   -webkit-transition: fill 0.5s;
+  -moz-transition: fill 0.5s;
+  -o-transition: fill 0.5s;
   transition: fill 0.5s;
 }
 
@@ -1102,14 +1104,15 @@ header .container .intro-text .intro-heading {
     }
 }
 
-    .social-item {
-        padding-bottom: 40px;
-    }
-@media (screen and max-width: 767 and min-width: 0px) {
-    div.container {
-        padding: 30px !important;
-    }
+.social-item {
+    padding-bottom: 40px;
+}
 
+
+@media (screen and max-width: 767 and min-width: 0px) {
+  div.container {
+    padding: 30px !important;
+  }
 }
 
 .section-heading-passivello {
@@ -1221,10 +1224,13 @@ div.navbar-lang p {
 
 div.navbar-lang p a {
   color: white;
+  -moz-transition: all 0.5s;
+  -webkit-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5;
 }
 
 div.navbar-lang p a:hover {
   color: #E91E63;
-  transition: all;
-  transition-duration: 0.3;
+  text-decoration: none;
 }

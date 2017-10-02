@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Passivello v0.1\n"
-"POT-Creation-Date: 2017-09-30 23:32+0200\n"
-"PO-Revision-Date: 2017-09-30 23:32+0200\n"
+"POT-Creation-Date: 2017-10-02 12:47+0200\n"
+"PO-Revision-Date: 2017-10-02 12:47+0200\n"
 "Last-Translator: \n"
 "Language-Team: PoliEdro <info@poliedro-polimi.it>\n"
 "Language: it\n"
@@ -12,7 +12,7 @@ msgstr ""
 "X-Generator: Poedit 2.0.4\n"
 "X-Poedit-Basepath: ..\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-KeywordsList: _e;__;esc_html_e\n"
 "X-Poedit-SearchPath-0: common-footer.php\n"
 "X-Poedit-SearchPath-1: common-structdata.php\n"
 "X-Poedit-SearchPath-2: footer.php\n"
@@ -50,8 +50,8 @@ msgid "Privacy and Cookies"
 msgstr "Privacy e Cookies"
 
 #: common-footer.php:25
-msgid "PoliEdro Association"
-msgstr "Associazione PoliEdro"
+msgid "\"PoliEdro\" Association"
+msgstr "Associazione \"PoliEdro\""
 
 #: common-footer.php:25 section-chisiamo.php:30
 msgid "Statute"
@@ -121,8 +121,12 @@ msgid "Latest articles"
 msgstr "Ultimi articoli"
 
 #: section-articoli.php:54
-msgid "No article was found in this language."
-msgstr "Nessun articolo trovato in questa lingua."
+msgid ""
+"No article was found in this language. Check the <a href='/it/"
+"#articoli'>Italian version</a>."
+msgstr ""
+"Nessun articolo trovato in questa lingua. Controlla la <a href='/en/"
+"#articoli'>versione in inglese</a>."
 
 #: section-articoli.php:62
 msgid "View all articles"
@@ -175,6 +179,21 @@ msgstr "Invia allo Sportello Accoglienza"
 #: section-contatti.php:43
 msgid "Welcoming Mailbox"
 msgstr "Sportello Accoglienza"
+
+#: section-contatti.php:43
+msgid ""
+"PoliEdro provides a \"welcoming\" mailbox for anybody who needs to talk "
+"privately about their sexuality and their gender identity. You can stay in "
+"touch with us via e-mail or ask for a personal meeting. Your privacy always "
+"comes first: we've all been there and we know how these topics can easily "
+"hurt our feelings."
+msgstr ""
+"PoliEdro fornisce uno sportello di supporto e ascolto per chiunque possa "
+"avere bisogno di confronto riguardo la sfera della sessualit e l'identit di "
+"genere. Puoi scriverci per parlare direttamente via email o se vuoi "
+"incontrarci dal vivo. La tua privacy sar comunque sempre rispettata, dato "
+"che tutti noi sappiamo (spesso essendoci passati noi stessi) quando questi "
+"argomenti possano toccare profondamente una persona."
 
 #: section-contatti.php:54
 msgid "Protected by reCaptcha"
@@ -286,7 +305,7 @@ msgstr "La nostra storia"
 
 #: section-storia.php:7
 msgid "This is how, from many faces, a big \"PoliEdro\" was born"
-msgstr "Ecco come da tante facce  nato un grande PoliEdro"
+msgstr "Ecco come da tante facce &egrave; nato un grande PoliEdro"
 
 #: section-storia.php:20
 msgid "The beginnings"
@@ -374,9 +393,8 @@ msgstr ""
 "Milano e #OraDirittiAllaMeta del 5 Marzo a Roma. Le Unioni Civili arrivano, "
 "e si festeggia partecipando a ben quattro Pride: nuovamente a Pavia, al "
 "primo Varese Pride, naturalmente a Milano e a Torino.\n"
-"                                    Ci mettiamo anche in contatto con le "
-"altre associazioni LGBT italiane di universitari, prendendo parte a un primo "
-"grande incontro a Bologna."
+"Ci mettiamo anche in contatto con le altre associazioni LGBT italiane di "
+"universitari, prendendo parte a un primo grande incontro a Bologna."
 
 #: section-storia.php:79
 msgid "Back to PoliMi"
@@ -410,17 +428,3 @@ msgstr ""
 
 #~ msgid "alle"
 #~ msgstr "at"
-
-#~ msgid ""
-#~ "PoliEdro provides a \"welcoming\" mailbox for anybody who needs to talk "
-#~ "privately about their sexuality and their gender identity. You can stay "
-#~ "in touch with us via e-mail or ask for a personal meeting. Your privacy "
-#~ "always comes first: we've all been there and we know how these topics can "
-#~ "easily hurt our feelings."
-#~ msgstr ""
-#~ "PoliEdro fornisce uno sportello di supporto e ascolto per chiunque possa "
-#~ "avere bisogno di confronto riguardo la sfera della sessualit e l'identit "
-#~ "di genere. Puoi scriverci per parlare direttamente via email o se vuoi "
-#~ "incontrarci dal vivo. La tua privacy sar comunque sempre rispettata, dato "
-#~ "che tutti noi sappiamo (spesso essendoci passati noi stessi) quando "
-#~ "questi argomenti possano toccare profondamente una persona."
